@@ -1,0 +1,21 @@
+h1{text-align: center;font-size: xx-large;}
+p{direction: rtl;font-size: x-large;}
+div{direction: rtl;}
+#theButton{top: 60%;left: 45%;position: absolute;transform: translate(-50, -50);}
+button{font-size: large;font-family:'Poppins',sans-serif;border-radius: 50px;border: none;padding: 20px 50px;cursor: pointer;}
+body{font-size: 1rem;font-family: 'Poppins',sans-serif;background-color: rgb(87, 148, 87);line-height: 1.4;}
+h2{text-align: center;font-family:'Poppins',sans-serif;}
+ul{list-style-type: none;}
+.q1{text-align: center;} 
+.form-group{margin: 0 auto 1.25rem auto;padding: 0.25rem;font-family: 'Poppins',sans-serif;}
+label{display: flex;
+    align-items: center;
+    font-size: 1.125rem;
+    margin-bottom: 0.5rem;}
+dt{top: 24%;left: 84%;position: absolute;transform: translate(-50, -50);font-size: 2rem;}
+textarea{top: 30%;left: 70%;position: absolute;transform: translate(-50, -50);}
+img{top: 48%;left: -5%;position: absolute;transform: translate(-50, -50);height: 370px;width: 600;}
+.textarea{font-size: 1rem;top: 12%;left: 20%;position: absolute;transform: translate(-50, -50);}
+.text{top: 15%;left: 2%;position: absolute;transform: translate(-50, -50);}
+.dt2{top: 10%;left: 35%;position: absolute;transform: translate(-50, -50);}
+.Answer{top: 28%;left: 38%;position: absolute;transform: translate(-50, -50);}
